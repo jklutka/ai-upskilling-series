@@ -1,0 +1,6 @@
+title: "AI Skills Journey"
+description: "A GitHub Pages site documenting the journey of learning AI skills."
+author: "Your Name"
+theme: minima
+baseurl: "" # Leave empty for root deployment
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
