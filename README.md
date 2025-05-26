@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Upskilling Series
 
 Learn practical ChatGPT skills — start with your first prompt and build toward real-world use.
@@ -31,3 +32,16 @@ To begin your journey:
 ## Contributing
 
 This is an open-source project under the MIT License. Contributions are welcome!
+=======
+# AI Skills Journey
+
+This is a hands-on, beginner-friendly course designed to help you build real-world ChatGPT skills — from your very first prompt to document-based workflows.
+
+Visit the live site at: https://jklutka.github.io/ai-skills-journey/
+
+## Lessons will include:
+- Writing your first prompt
+- Using ChatGPT as a role or coach
+- Drafting and refining practical outputs
+- Summarizing documents and text
+>>>>>>> a8d370eae794e92ef38f149175cfa150d1d84485
