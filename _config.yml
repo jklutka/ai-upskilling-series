@@ -1,6 +1,8 @@
 title: "AI Skills Journey"
-description: "A GitHub Pages site documenting the journey of learning AI skills."
-author: "Your Name"
+description: "Learn practical ChatGPT skills — from your first prompt to real-world applications"
+author: "Justin Klutka"
 theme: minima
-baseurl: "" # Leave empty for root deployment
-url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+baseurl: "/ai-upskilling-series"
+url: "https://jklutka.github.io"
+github_username: jklutka
+show_excerpts: true
